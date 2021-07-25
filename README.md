@@ -1,1 +1,1 @@
-https://github.com/TimNurMur/html-test/
+https://github.com/TimNurMur/html-test/index.html
